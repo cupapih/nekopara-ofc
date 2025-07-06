@@ -1,0 +1,20 @@
+{
+  "id": "cosplay",
+  "title": "cosplay",
+  "image": "img/andrey-baru.jpg",
+  "genre": "asia",
+  "date": "2025-07-01T12:00:00Z",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Pz1hYmMxMjM=",
+      "aHR0cHM6Ly92aWRleS5jby92Pz1kZWY0NTY=",
+      "aHR0cHM6Ly92aWRleS5jby92Pz1naGk3ODk=",
+      "aHR0cHM6Ly92aWRleS5jby92Pz1VTnc0YnBnMTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Pz1zbEliSjU4bzE=",
+      "aHR0cHM6Ly92aWRleS5jby92Pz1OdWVDQjE3RzE=",
+      "aHR0cHM6Ly92aWRleS5jby92Pz1sTHNKZFVKSjE=",
+      "aHR0cHM6Ly92aWRleS5jby92Pz1hWHpOdGRkUDE="
+    ],
+    "mediafire": "aHR0cHM6Ly9tZWRpYWZpcmUuY29tL2ZpbGUveHl6"
+  }
+}

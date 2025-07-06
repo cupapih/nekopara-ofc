@@ -1,0 +1,19 @@
+{
+  "id": "andrey-dela-cruz",
+  "title": "Andrey Dela Cruz",
+  "image": "img/andrey.jpg",
+  "genre": "asia",
+  "date": "2025-07-01T12:00:00Z",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Pz1hYmMxMjM=",
+      "aHR0cHM6Ly92aWRleS5jby92Pz1kZWY0NTY=",
+      "aHR0cHM6Ly92aWRleS5jby92Pz1naGk3ODk="
+    ],
+    "terabox": "aHR0cHM6Ly90ZXJhYm94LmNvbS9zL3Rlc3Q=",
+    "mediafire": "aHR0cHM6Ly9tZWRpYWZpcmUuY29tL2ZpbGUveHl6",
+    "pixeldrain": [
+      "aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3BpeGxpbmsxMjM="
+    ]
+  }
+}
