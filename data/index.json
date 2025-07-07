@@ -15,6 +15,9 @@
     },
     {
       "file": "cia.json"
+    },
+    {
+      "file": "nara.json"
     }
   ]
 }
