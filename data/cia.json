@@ -1,0 +1,17 @@
+{
+  "id": "cia",
+  "title": "Cia",
+  "image": "img/cia.jpg",
+  "genre": "local",
+  "date": "2025-07-07T15:33:34.602836Z",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1kYWdFMFlNVjI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1seTVRZkNwNjI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1WQ3dsTXBXczI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1JS3FMNnc5VzI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1Rc3pzZkRScTI="
+    ],
+    "mediafire": "aHR0cHM6Ly9lbi5zaHJpbmtlLm1lL216aEQ5"
+  }
+}
