@@ -14,32 +14,38 @@
 <body>
 
   <nav class="navbar">
-    <div class="logo">Nekopara</div>
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <button id="refreshBtn" onclick="manualRefresh()" style="padding: 8px 12px; font-size: 14px; border: none; background-color: #007bff; color: white; border-radius: 5px; cursor: pointer;">
-        <i class="fas fa-sync-alt"></i>
+  <div class="logo">Nekopara</div>
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <form id="searchForm" onsubmit="searchPosts(event)" style="display: flex; align-items: center;">
+      <input type="text" id="searchInput" placeholder="Cari..." style="padding: 6px 10px; border-radius: 4px 0 0 4px; border: 1px solid #ccc; font-size: 14px;">
+      <button type="submit" style="padding: 6px 10px; border: none; background: #007bff; color: #fff; border-radius: 0 4px 4px 0; cursor: pointer;">
+        <i class="fas fa-search"></i>
       </button>
-      <button id="clearCacheBtn" onclick="clearServiceWorkerCache()" style="padding: 8px 12px; font-size: 14px; border: none; background-color: #dc3545; color: white; border-radius: 5px; cursor: pointer;">
-        <i class="fas fa-trash-alt"></i>
-      </button>
-      <button class="img/hamburger" onclick="toggleMenu()">
-        <img src="img/hamburger_menu.svg" alt="Menu" width="30">
-      </button>
-    </div>
-    <ul class="nav-menu" id="navMenu">
-      <button class="close-menu" onclick="toggleMenu()">
-        <img src="close_icon.svg" alt="Close" width="30">
-      </button>
-      <li><a href="#beranda" onclick="filterPosts('all')">Halaman utama</a></li>
-      <li><a href="#local" onclick="filterPosts('local')">Bokep local</a></li>
-      <li><a href="#asia" onclick="filterPosts('asia')">Bokep asia</a></li>
-      <li><a href="#barat" onclick="filterPosts('barat')">Bokep barat</a></li>
-      <li><a href="#local_random" onclick="filterPosts('local_random')">Bokep Random local</a></li>
-      <li><a href="#asia_random" onclick="filterPosts('asia_random')">Bokep Random asia</a></li>
-      <li><a href="#barat_random" onclick="filterPosts('barat_random')">Bokep Random Barat</a></li>
-      <li><a href="#jav" onclick="filterPosts('jav')">JAV Sub indo</a></li>
-    </ul>
-  </nav>
+    </form>
+    <button id="refreshBtn" onclick="manualRefresh()" style="padding: 8px 12px; font-size: 14px; border: none; background-color: #007bff; color: white; border-radius: 5px; cursor: pointer;">
+      <i class="fas fa-sync-alt"></i>
+    </button>
+    <button id="clearCacheBtn" onclick="clearServiceWorkerCache()" style="padding: 8px 12px; font-size: 14px; border: none; background-color: #dc3545; color: white; border-radius: 5px; cursor: pointer;">
+      <i class="fas fa-trash-alt"></i>
+    </button>
+    <button class="img/hamburger" onclick="toggleMenu()">
+      <img src="img/hamburger_menu.svg" alt="Menu" width="30">
+    </button>
+  </div>
+  <ul class="nav-menu" id="navMenu">
+    <button class="close-menu" onclick="toggleMenu()">
+      <img src="close_icon.svg" alt="Close" width="30">
+    </button>
+    <li><a href="#beranda" onclick="filterPosts('all')">Halaman utama</a></li>
+    <li><a href="#local" onclick="filterPosts('local')">Bokep local</a></li>
+    <li><a href="#asia" onclick="filterPosts('asia')">Bokep asia</a></li>
+    <li><a href="#barat" onclick="filterPosts('barat')">Bokep barat</a></li>
+    <li><a href="#local_random" onclick="filterPosts('local_random')">Bokep Random local</a></li>
+    <li><a href="#asia_random" onclick="filterPosts('asia_random')">Bokep Random asia</a></li>
+    <li><a href="#barat_random" onclick="filterPosts('barat_random')">Bokep Random Barat</a></li>
+    <li><a href="#jav" onclick="filterPosts('jav')">JAV Sub indo</a></li>
+  </ul>
+</nav>
 
   <main class="grid-container" id="postGrid"></main>
 
@@ -66,11 +72,21 @@
   </div>
 
   <footer class="site-footer">
-    <p>Hak cipta Nekopara. All rights reserved.</p>
+    <p>
+      Hak cipta Nekopara. Di larang mengambil content tanpa izin.
+      content dewasa pastikan jauhkan dari anak-anak
+    </p>
   </footer>
 
   <script src="js/script.js"></script>
   <script>
+
+     function searchPosts(event) {
+    event.preventDefault();
+    const query = document.getElementById('searchInput').value.trim().toLowerCase();
+    filterPosts('search', query);
+  }
+
     function manualRefresh() {
       location.reload();
     }
