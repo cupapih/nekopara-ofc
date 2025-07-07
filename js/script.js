@@ -3,8 +3,8 @@ let filteredPosts = [];
 let currentPage = 1;
 const postsPerPage = 20;
 
-const STATIC_CACHE_NAME = 'keylapoi-static-v3';
-const DATA_CACHE_NAME = 'keylapoi-data-v3';
+const STATIC_CACHE_NAME = 'nekopara-data-v3';
+const DATA_CACHE_NAME = 'nekopara-data-v3';
 
 function decodeUrl(encodedUrl) {
   try {
