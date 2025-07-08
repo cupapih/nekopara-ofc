@@ -3,21 +3,31 @@ let filteredPosts = [];
 let currentPage = 1;
 const postsPerPage = 20;
 
-const STATIC_CACHE_NAME = 'nekopara-data-v3';
-const DATA_CACHE_NAME = 'nekopara-data-v3';
+const STATIC_CACHE_NAME = 'keylapoi-static-v3';
+const DATA_CACHE_NAME = 'keylapoi-data-v3';
 
 function decodeUrl(encodedUrl) {
   try {
     const decoded = atob(encodedUrl);
     const url = new URL(decoded);
     const hostname = url.hostname;
-    const targetDomains = ['videy.co', 'mediafire', 'terabox', 'pixeldrain'];
+    const targetDomains = ['videy.co', 'mediafire', 'terabox'];
     const isTarget = targetDomains.some(domain => hostname.includes(domain));
     return isTarget ? `https://savelink-nekopara.vercel.app/?url=${encodedUrl}` : decoded;
   } catch (e) {
     console.error("Gagal decode:", encodedUrl);
     return "#";
   }
+
+   function searchPosts(event) {
+    event.preventDefault();
+    const query = document.getElementById('searchInput').value.trim().toLowerCase();
+    filterPosts('search', query);
+  }
+   function toggleMenu() {
+    const navMenu = document.getElementById('navMenu');
+    navMenu.classList.toggle('active');
+   }
 }
 
 function showLoader() {
