@@ -24,6 +24,9 @@
     },
     {
       "file": "lea.json"
+    },
+    {
+      "file": "aureal.json"
     }
   ]
 }
