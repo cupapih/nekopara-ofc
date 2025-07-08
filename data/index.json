@@ -5,10 +5,10 @@
       "file": "andrey-dela-cruz.json"
     },
     {
-      "file": "cosplay.json" 
+      "file": "cosplay.json"
     },
-   {
-    "file": "asia.json"
+    {
+      "file": "asia.json"
     },
     {
       "file": "malay-kacamata.json"
@@ -18,6 +18,9 @@
     },
     {
       "file": "nara.json"
+    },
+    {
+      "file": "ukhtiviral_final.json"
     }
   ]
 }
