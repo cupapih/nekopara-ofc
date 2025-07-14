@@ -1,0 +1,15 @@
+{
+  "id": "silvia",
+  "title": "silvia",
+  "image": "img/silvia.jpg",
+  "genre": "local",
+  "date": "2025-07-14T06:41:55.175179Z",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1sczZEMWgzRzI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0zbG9zaDJUeTI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1tQ1NkZWNNODI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD16TW1qU3BLQzI="
+    ]
+  }
+}
