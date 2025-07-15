@@ -81,17 +81,16 @@
     }, 1000);
 
     document.getElementById("continue").addEventListener("click", function () {
-      // ✅ 1. Buka direct link (Adsterra) - tab baru
-      const adsterraPopup = window.open("https://www.effectiveratecpm.com/z6tm9azca?key=caa878184bec227aac28556e38c42760", "_blank");
+      // ✅ 1. Buka Direct Link (Adsterra)
+      window.open("https://www.effectiveratecpm.com/z6tm9azca?key=caa878184bec227aac28556e38c42760", "_blank");
 
-      // ✅ 2. Buka Popunder JuicyAds - blur agar di belakang
-      const juicyPopup = window.open("https://www.juicyads.rocks", "_blank");
-      if (juicyPopup) {
-        juicyPopup.blur();     // Buat dia kehilangan fokus
-        window.focus();        // Kembalikan fokus ke halaman utama
-      }
+      // ✅ 2. Load Popunder JuicyAds
+      const juicy = document.createElement("script");
+      juicy.type = "text/javascript";
+      juicy.src = "https://js.juicyads.com/jp.php?c=4464u233x2a4u4r2o2e4y25424&u=https%3A%2F%2Fwww.juicyads.rocks";
+      document.body.appendChild(juicy);
 
-      // ✅ 3. Redirect ke URL tujuan
+      // ✅ 3. Redirect ke tujuan setelah 3 detik
       setTimeout(function () {
         window.location.href = targetURL;
       }, 3000);
