@@ -2,7 +2,6 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  
   <title>Safelink Redirect</title>
   <style>
     body {
@@ -48,19 +47,19 @@
     <p>Iklan biasanya muncul <strong>2 kali</strong>, setelah itu tunggu sebentar, halaman akan otomatis menuju ke <strong>VIDEY</strong>.</p>
   </div>
 
-  <!-- Iklan di atas countdown -->
+  <!-- Iklan Atas -->
   <div class="ads-container">
     <script type='text/javascript' src='//pl26230795.effectiveratecpm.com/7c/ba/8f/7cba8f9c438d27103851dca0a6135216.js'></script>
   </div>
 
   <p>Anda akan dialihkan dalam <span id="countdown">5</span> detik.</p>
 
-  <!-- Iklan di bawah countdown -->
+  <!-- Iklan Tengah -->
   <div class="ads-container">
     <script src="https://www.effectiveratecpm.com/z6tm9azca?key=caa878184bec227aac28556e38c42760" async data-cfasync="false"></script>
   </div>
 
-  <!-- Iklan tambahan di atas tombol "Lanjutkan" -->
+  <!-- Iklan Bawah -->
   <div class="ads-container">
     <script type='text/javascript' src='//pl26230795.effectiveratecpm.com/7c/ba/8f/7cba8f9c438d27103851dca0a6135216.js'></script>
   </div>
@@ -82,14 +81,24 @@
     }, 1000);
 
     document.getElementById("continue").addEventListener("click", function () {
+      // ✅ 1. Buka Direct Link (Adsterra)
       window.open("https://www.effectiveratecpm.com/z6tm9azca?key=caa878184bec227aac28556e38c42760", "_blank");
+
+      // ✅ 2. Load Popunder JuicyAds
+      const juicy = document.createElement("script");
+      juicy.type = "text/javascript";
+      juicy.src = "https://js.juicyads.com/jp.php?c=4464u233x2a4u4r2o2e4y25424&u=https%3A%2F%2Fwww.juicyads.rocks";
+      document.body.appendChild(juicy);
+
+      // ✅ 3. Redirect ke tujuan setelah 3 detik
       setTimeout(function () {
         window.location.href = targetURL;
       }, 3000);
     });
   </script>
 
- <script src="https://fpyf8.com/88/tag.min.js" data-zone="157336" async data-cfasync="false"></script>
-  
+  <!-- Popunder tambahan dari Adsterra -->
+  <script src="https://fpyf8.com/88/tag.min.js" data-zone="157336" async data-cfasync="false"></script>
+
 </body>
 </html>
