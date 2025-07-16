@@ -84,6 +84,9 @@
    },
    {
     "file": "myra.json"
+   },
+   {
+    "file": "kitkat.json"
    }
   ]
 }
