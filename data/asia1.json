@@ -1,0 +1,23 @@
+[
+  {
+    "id": "asia1",
+    "title": "asia1",
+    "image": "img/asia1.jpg",
+    "genre": "asia",
+    "date": "2025-07-20T11:40:57.621820Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1EZzR5d1BOUTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1BUXhKcjBqNDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1Mc3g3RmRiQjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1yMkN1U3BTbTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1TbjJKWDZnVjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1Dd1FzYjlGODE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD05aG80YTNCcDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD05eXhZc0I1WDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1URUk3YlJBSDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0xcEdiZG1rVTE="
+      ]
+    }
+  }
+]
