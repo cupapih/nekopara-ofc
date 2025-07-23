@@ -141,6 +141,7 @@
    },
    {
     "file": "saskia.json"
-   }
+   },
+   { "file": "localrandom.json }
   ]
 }
