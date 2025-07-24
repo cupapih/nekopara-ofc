@@ -144,6 +144,6 @@
    },
    { "file": "localrandom.json" },
    { "file": "sharon.json" },
-   { "file": "ukhty-era.json" }
+   { "file": "ukhty_era.json" }
   ]
 }
