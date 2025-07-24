@@ -143,6 +143,7 @@
     "file": "saskia.json"
    },
    { "file": "localrandom.json" },
-   { "file": "sharon.json" }
+   { "file": "sharon.json" },
+   { "file": "ukhty-era.json" }
   ]
 }
