@@ -1,0 +1,20 @@
+[
+  {
+    "id": "angel",
+    "title": "angel",
+    "image": "img/angel.jpg",
+    "genre": "local",
+    "date": "2025-07-26T16:01:43.612059Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1GQjlQRDVldzI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD01T2ZZTXE0dzI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1lVm1lMmhWcjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD11Y09XQXhFZjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1Xbm55dGpJWDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1DclppR0NrbTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1NWHVrZHRLQTI="
+      ]
+    }
+  }
+]
