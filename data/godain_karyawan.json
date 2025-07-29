@@ -1,0 +1,14 @@
+{
+  "id": "godain_karyawan",
+  "title": "godain karyawan",
+  "image": "img/godain_karyawan.jpg",
+  "genre": "barat",
+  "date": "2025-07-29T00:00:00Z",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1sOUR0NTlvZTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1Sem0waFdOajE="
+    ],
+    "terabox": "aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xejhGVFA2YUxYaXZjTXZPejNGVnFfQQ=="
+  }
+}
