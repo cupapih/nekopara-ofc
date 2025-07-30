@@ -1,0 +1,15 @@
+{
+  "id": "harui-chindo",
+  "title": "harui chindo",
+  "image": "img/harui.jpg",
+  "genre": "local",
+  "date": "2025-07-29T00:00:00Z",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1JS25OZ21LYzE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1WTWhoSUdSbzE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD15VjM2OGdKMjE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1qUUlidGZFdzE="
+    ]
+  }
+}
