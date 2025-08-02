@@ -1,0 +1,15 @@
+
+  {
+    "id": "azalea",
+    "title": "azalea",
+    "image": "img/azalea.jpg",
+    "genre": "local",
+    "date": "2025-08-02T02:16:55.430789Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0waWIwWkE3dA==",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD13cXpoZ0U1SA==",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1BVzJlZ1JQcg=="
+      ]
+    }
+  }
