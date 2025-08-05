@@ -1,0 +1,19 @@
+
+  {
+    "id": "macky",
+    "title": "macky",
+    "image": "img/macky.jpg",
+    "genre": "barat",
+    "date": "2025-08-05T10:55:18.590348Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1YMXlUeWFaQjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1kOVhmVU82TDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1vNzlGVGFjazI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1EeWZkeXhleTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1YY09zbjZpRjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1MRE5NdUJuMTI="
+      ],
+      "terabox": "aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xakZWWHRvNDhJRDFlODNkYU02OGpqZw=="
+    }
+  }
