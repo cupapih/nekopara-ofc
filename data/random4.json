@@ -1,0 +1,17 @@
+
+  {
+    "id": "random4",
+    "title": "Random4",
+    "image": "img/random4.jpg",
+    "genre": "local",
+    "date": "2025-08-06T16:35:43.663746Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD05UFRvcEROMjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1pOGMwT2QyTTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1NSlhIWWhzUjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD10RnlMdmhSbzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1CVzllcnR5azE="
+      ]
+    }
+  }
