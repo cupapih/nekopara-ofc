@@ -84,6 +84,7 @@
    { "file": "swonly.json" },
    { "file": "nnda.json" },
    { "file": "nia.json" },
-   { "file": "art.json" }
+   { "file": "art.json" },
+   { "file": "cicipikasli.json" }
   ]
 }
