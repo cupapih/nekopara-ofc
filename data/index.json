@@ -83,6 +83,7 @@
    { "file": "cassey.json" },
    { "file": "swonly.json" },
    { "file": "nnda.json" },
-   { "file": "nia.json" }
+   { "file": "nia.json" },
+   { "file": "art.json" }
   ]
 }
