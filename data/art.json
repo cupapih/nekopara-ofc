@@ -1,0 +1,17 @@
+[
+  {
+    "id": "art",
+    "title": "art",
+    "image": "img/art.jpg",
+    "genre": "local, asia",
+    "date": "2025-08-08T11:27:24.430568Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1uQ21uY0t5WjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0wdlY2NmlNNDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1kYjBHRW1GbDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1RR3NodXNaRDE="
+      ]
+    }
+  }
+]
