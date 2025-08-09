@@ -86,6 +86,7 @@
    { "file": "nia.json" },
    { "file": "art.json" },
    { "file": "cicipikasli.json" },
-   { "file": "sinchan.json" }
+   { "file": "sinchan.json" },
+   { "file": "kamarmandi.json" }
   ]
 }
