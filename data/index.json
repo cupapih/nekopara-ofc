@@ -101,6 +101,7 @@
    { "file": "haru.json" },
    { "file": "ajelsei.json" },
    { "file": "lilim_azra.json" },
-   { "file": "meiza.json" }
+   { "file": "meiza.json" },
+   { "file": "hizbul.json" }
   ]
 }
