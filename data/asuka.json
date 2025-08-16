@@ -1,0 +1,20 @@
+
+  {
+    "id": "asuka",
+    "title": "asuka",
+    "image": "img/asuka.jpg",
+    "genre": "asia",
+    "date": "2025-08-16T12:24:35.593509Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD05VnBITjd2VzI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1nWjFiUklTbTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD03MkxtYUM2MDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD04RFREYW1yVDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1ZdHlxcnh2dzI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1YN3ZZd2J3aDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0zRHVhWTdzazI="
+      ],
+      "mediafire": "aHR0cHM6Ly9lbi5zaHJpbmtlLm1lL2pubUdE"
+    }
+  }
