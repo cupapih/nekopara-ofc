@@ -1,0 +1,18 @@
+
+  {
+    "id": "family",
+    "title": "family",
+    "image": "img/family.jpg",
+    "genre": "local",
+    "date": "2025-08-16T05:38:09.464423Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD02VTlJSGRmajI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1xUUdxMUpXeDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1xM0RvWWxwMTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1HNFZIRXZjaDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1NRU55T0JSSjE="
+      ],
+      "mediafire": "aHR0cHM6Ly9lbi5zaHJpbmtlLm1lLzAzR3l0"
+    }
+  }
