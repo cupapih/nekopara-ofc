@@ -104,6 +104,7 @@
    { "file": "meiza.json" },
    { "file": "hizbul.json" },
    { "file": "vivyvia.json" },
-   { "file": "putri_adelis.json" }
+   { "file": "putri_adelis.json" },
+   { "file": "family.json" }
   ]
 }
