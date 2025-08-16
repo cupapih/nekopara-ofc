@@ -105,6 +105,7 @@
    { "file": "hizbul.json" },
    { "file": "vivyvia.json" },
    { "file": "putri_adelis.json" },
-   { "file": "family.json" }
+   { "file": "family.json" },
+   { "file": "asuka.json" }
   ]
 }
