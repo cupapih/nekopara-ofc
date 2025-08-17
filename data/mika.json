@@ -1,0 +1,18 @@
+[
+  {
+    "id": "mika",
+    "title": "mika",
+    "image": "img/mika.jpg",
+    "genre": "local",
+    "date": "2025-08-17T04:37:09.633306Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1FSTNNampjNTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1uYkFiU2cyTjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1iNDJCT1pjbjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD04RTl4bDEwSzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1YaEhSanFXSTE="
+      ]
+    }
+  }
+]
