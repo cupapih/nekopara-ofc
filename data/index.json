@@ -134,6 +134,7 @@
    { "file": "tris.json" },
    { "file": "malay_membara.json" },
    { "file": "yehaw.json" },
-   { "file": "kolpri_chindo.json" }
+   { "file": "kolpri_chindo.json" },
+   { "file": "pns.json" }
   ]
 }
