@@ -135,6 +135,7 @@
    { "file": "malay_membara.json" },
    { "file": "yehaw.json" },
    { "file": "kolpri_chindo.json" },
-   { "file": "pns.json" }
+   { "file": "pns.json" },
+   { "file": "yippy.json" }
   ]
 }
