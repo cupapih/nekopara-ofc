@@ -1,0 +1,20 @@
+
+  {
+    "id": "bahan random",
+    "title": "bahan random",
+    "image": "img/bahanrandom.jpg",
+    "genre": "local",
+    "date": "2025-08-19T18:45:29.672Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1US2c2Z1U5UzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1RSkVCR2h6djE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1Yc3VVVnBVRTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD13cWo2bFFaZDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1xRmFGNmp4VDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD12bE9oOE1hbTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1Nc3RsNlZGdzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1Nc3RsNlZGdzE="
+      ]
+    }
+  }
