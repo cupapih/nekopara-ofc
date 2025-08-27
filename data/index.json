@@ -138,6 +138,7 @@
    { "file": "pns.json" },
    { "file": "yippy.json" },
    { "file": "hanz_pinay.json" },
-   {"file": "flowreszyn.json" }
+   { "file": "flowreszyn.json" },
+   { "file": "bahanrandom.json" }
   ]
 }
