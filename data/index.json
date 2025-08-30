@@ -146,6 +146,7 @@
    { "file": "telin.json" },
    { "file": "chelmei.json" },
    { "file": "spesial.json" },
-   { "file": "kakak_ipar.json" }
+   { "file": "kakak_ipar.json" },
+   { "file": "guru_murid.json" }
   ]
 }
