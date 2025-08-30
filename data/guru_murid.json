@@ -1,0 +1,19 @@
+
+  {
+    "id": "Guru murid",
+    "title": "Guru murid",
+    "image": "img/gurumurid.jpg",
+    "genre": "asia",
+    "date": "2025-08-19T20:25:42.582Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPU1DSVp0M2xkMQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPW5RWWprdDJxMQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPTVxWVp mMm9zMQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPUdjQlZxb2I4MQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPTVmV3JTd2VmMQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPXYHd1doR3hNMQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPWphN2ZFUHVwMQ=="
+      ]
+    }
+  }
