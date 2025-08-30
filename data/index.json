@@ -147,6 +147,7 @@
    { "file": "chelmei.json" },
    { "file": "spesial.json" },
    { "file": "kakak_ipar.json" },
-   { "file": "guru_murid.json" }
+   { "file": "guru_murid.json" },
+   { "tile": "hijab_ungu.json" }
   ]
 }
