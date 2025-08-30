@@ -148,6 +148,6 @@
    { "file": "spesial.json" },
    { "file": "kakak_ipar.json" },
    { "file": "guru_murid.json" },
-   { "tile": "hijab_ungu.json" }
+   { "file": "hijab_ungu.json" }
   ]
 }
