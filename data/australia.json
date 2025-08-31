@@ -1,0 +1,18 @@
+
+  {
+    "id": "Australia",
+    "title": "Australia",
+    "image": "img/australia.jpg",
+    "genre": "barat",
+    "date": "2025-08-19T21:10:33.214Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD14RUhnd1N5STI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0zUTkzeTkyVjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD16dXV6V0pFSDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1zdFhZa3JJdjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0xTGx6MHdJRjI="
+      ],
+      "mediafire": "aHR0cHM6Ly9lbi5zaHJpbmtlLm1lL3RSQm5NQQ=="
+    }
+  }
