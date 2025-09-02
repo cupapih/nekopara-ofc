@@ -155,6 +155,7 @@
    { "file": "buatayang.json" },
    { "file": "vika_magelang.json" },
    { "file": "mekaloymalay.json" },
-   { "file": "jia_hijab.json" }
+   { "file": "jia_hijab.json" },
+   { "file": "murid_handal.json" }
   ]
 }
