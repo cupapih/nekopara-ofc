@@ -1,0 +1,19 @@
+
+  {
+    "id": "bu guru",
+    "title": "Bu Guru",
+    "image": "img/buguru.jpg",
+    "genre": "local",
+    "date": "2025-09-06T15:15:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD01R0F1cTY4dzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1HTHpwSmlmQTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1tMGFFTWJEYTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1oUEpSYkROTDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1DZ3RQTUp1aDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1yMFJHNXBpNzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1McXc5Qnh4TjE="
+      ]
+    }
+  }
