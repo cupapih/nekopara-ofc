@@ -1,0 +1,17 @@
+
+  {
+    "id": "bercanda",
+    "title": "Bercanda",
+    "image": "img/bercanda.jpg",
+    "genre": "local",
+    "date": "2025-09-06T16:50:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1acGdpQjlRYjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD12eEdDV0ZtTzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1NUVB lVkxDbTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD12R0lXYkpGbjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD16dkdjWDMzVzE="
+      ]
+    }
+  }
