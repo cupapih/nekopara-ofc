@@ -1,0 +1,18 @@
+
+  {
+    "id": "billa",
+    "title": "Billa",
+    "image": "img/billa.jpg",
+    "genre": "local",
+    "date": "2025-09-06T18:20:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1rcFRacm9KNzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1udlJpUzVHVjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1ZZUR3bm50cDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1CVEc0clhuNDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD05cGppWTRBQzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1KMHVzZ1g1ejE="
+      ]
+    }
+  }
