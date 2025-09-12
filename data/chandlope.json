@@ -1,0 +1,18 @@
+
+  {
+    "id": "chandlope",
+    "title": "Chandlope",
+    "image": "img/chandlope.jpg",
+    "genre": "asia",
+    "date": "2025-09-06T19:10:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0yMlZUcWd xOTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1XbEw4aFBRaTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1Od0J2WGZ6NTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1VV0F2ajNuUzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1obm5pRU1kajE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD11ejBpa0p5aTE="
+      ]
+    }
+  }
