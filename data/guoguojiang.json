@@ -1,0 +1,17 @@
+
+  {
+    "id": "guoguojiang",
+    "title": "Guoguojiang",
+    "image": "img/guoguojiang.jpg",
+    "genre": "asia",
+    "date": "2025-09-06T20:00:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1aOTJFbWs1YzI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0xY3dYVnpJUTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1QeDlJdEVMTjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1Za0ZTY0ZQVDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1Mb2lGU25jTjI="
+      ]
+    }
+  }
