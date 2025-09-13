@@ -1,0 +1,18 @@
+
+  {
+    "id": "koemoe",
+    "title": "Koemoe",
+    "image": "img/koemoe.jpg",
+    "genre": "local",
+    "date": "2025-09-06T20:10:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1vdWtFUFRPdTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1zTGdXQmZINjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1vMm5GSDhHQzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1xMXlSMGI yYTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD05UGkzem81SjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1UR1I4TEk4WTE="
+      ]
+    }
+  }
