@@ -192,6 +192,7 @@
    { "file": "zeecant.json" },
    { "file": "ditayunita.json" },
    { "file": "rinimahasiswi.json" },
-   { "file": "asupankost.json" }
+   { "file": "asupankost.json" },
+   { "file": "karin.json" }
   ]
 }
