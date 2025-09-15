@@ -1,0 +1,18 @@
+
+  {
+    "id": "karin",
+    "title": "Karin",
+    "image": "img/karin.jpg",
+    "genre": "local",
+    "date": "2025-09-12T22:05:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1oNTZMZVZqYTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1XcDhac1o5ODE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZDpvekhhV0tTMjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0yUzl tVGRuYzI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1ud290RXB0bDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1MNWV0Skh0STE="
+      ]
+    }
+  }
