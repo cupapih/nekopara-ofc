@@ -1,0 +1,18 @@
+
+  {
+    "id": "minokiko",
+    "title": "Minokiko",
+    "image": "img/minokiko.jpg",
+    "genre": "local",
+    "date": "2025-09-12T22:58:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1IUTZrZERVOTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1YZnM5WGgzbTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0xWFRQZmk4TDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1ZVVZxNWVNeTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1kcmhQSVVSbTI="
+      ],
+      "mediafire": "aHR0cHM6Ly9zaHJpbmtlLnRvcC9vZWFNblZmYg=="
+    }
+  }
