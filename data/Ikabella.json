@@ -1,0 +1,18 @@
+
+  {
+    "id": "ika-bella",
+    "title": "Ika Bella",
+    "image": "img/ikabella.jpg",
+    "genre": "local",
+    "date": "2025-09-12T22:45:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1HMHlSSTJicjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1hWHhIdlMwZTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1mV3E2cWtmOTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1uNFQ3alJyRTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1FUFZ2ODIxMzI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1ZcUFSem1CQzI="
+      ]
+    }
+  }
