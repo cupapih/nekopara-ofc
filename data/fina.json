@@ -1,0 +1,18 @@
+
+  {
+    "id": "fina",
+    "title": "Fina",
+    "image": "img/fina.jpg",
+    "genre": "local",
+    "date": "2025-09-12T23:30:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPXVTUHFsamcyMQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPVM4elNzdjZYMQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPVRBY0Y5cUt3MQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPVhoUFdhZGVkMQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPUJ4TGlMM2oyMQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPWwxZkRoUUdBMQ=="
+      ]
+    }
+  }
