@@ -199,6 +199,7 @@
    { "file": "stw_aurel.json" },
    { "file": "minokiko.json" },
    { "file": "jersey.json" },
-   { "file": "fina.json" }
+   { "file": "fina.json" },
+   { "file": "tobrutstw.json" }
   ]
 }
