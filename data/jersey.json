@@ -1,0 +1,19 @@
+
+  {
+    "id": "jersey",
+    "title": "Jersey",
+    "image": "img/jersey.jpg",
+    "genre": "local",
+    "date": "2025-09-12T23:20:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1UT3hyZXFKUjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0xZHJlTVVGWTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD05MWs2WXFWcjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1rOVVJcUUwazE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD14bjkzTzZEVDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD05ZDMxT2sxZzE="
+      ],
+      "mediafire": "aHR0cHM6Ly9zaHJpbmtlLnRvcC9aSjFEcW1oVQ=="
+    }
+  }
