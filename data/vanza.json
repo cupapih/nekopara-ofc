@@ -1,0 +1,22 @@
+
+  {
+    "id": "vanza",
+    "title": "Vanza",
+    "image": "img/vanza.jpg",
+    "genre": "local",
+    "date": "2025-09-12T23:59:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1jejdtdmpWVjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD13ZHJpYmlhaDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1CZW9pZ3VHaDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1WTDltVkxTcDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD11M041ZGI0bzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1LSlkyZWtZUTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD14SThPdVphRzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1uamxYYktuODE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1adEQ3WlJMODE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1PS2E3SUlHQTE="
+      ]
+    }
+  }
