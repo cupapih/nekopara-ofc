@@ -1,0 +1,17 @@
+
+  {
+    "id": "bocil-gemoy",
+    "title": "Bocil gemoy",
+    "image": "img/bocilgemoy.jpg",
+    "genre": "local",
+    "date": "2025-09-12T23:59:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1BUE9tZDhIUjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD10aTdJWlBQeDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1OZVBWZXJ2ajE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1RMDBvaUJpdjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1RSHV1UE1kTDE="
+      ]
+    }
+  }
