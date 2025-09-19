@@ -1,0 +1,16 @@
+
+  {
+    "id": "betha",
+    "title": "Betha",
+    "image": "img/betha.jpg",
+    "genre": "local",
+    "date": "2025-09-12T23:59:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPVo1Qm82TEFsMQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPUJXbG9VYzlOMQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPXUxTVlzUTVwMQ=="
+      ],
+      "mediafire": "aHR0cHM6Ly9zaHJpbmttZS50b3AvdGs3VA=="
+    }
+  }
