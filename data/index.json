@@ -206,6 +206,7 @@
    { "file": "vanza.json" },
    { "file": "dedeknia.json" },
    { "file": "zahra.json" },
-   { "file": "betha.json" }
+   { "file": "betha.json" },
+   { "file": "lancar.json" }
   ]
 }
