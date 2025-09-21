@@ -1,0 +1,18 @@
+
+  {
+    "id": "chatarine",
+    "title": "Chatarine",
+    "image": "img/chatarine.jpg",
+    "genre": "local",
+    "date": "2025-09-12T00:00:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1CTEY0dVBmbzI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1sdVZwSExLbjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1rd0F2QjBVNzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD01THkyc1Z5OTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0yZVl0N2RaZDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0xQWY5RTBhUTE="
+      ]
+    }
+  }
