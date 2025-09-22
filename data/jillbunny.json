@@ -1,0 +1,18 @@
+
+  {
+    "id": "jill-bunny",
+    "title": "Jill Bunny",
+    "image": "img/jillbunny.jpg",
+    "genre": "barat",
+    "date": "2025-09-21T06:01:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD15NUZQVzRUbDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1pT2N5N1lmYjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0wT1VuMm1ESzI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1XRnhzU1IwNTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD01UGkyWEhHUzI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1LVTFhRVNGYjI="
+      ]
+    }
+  }
