@@ -1,0 +1,19 @@
+
+  {
+    "id": "monmai",
+    "title": "Monmai",
+    "image": "img/monmai.jpg",
+    "genre": "asia",
+    "date": "2025-09-21T06:25:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1YQ0pYZk1GdjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD00NmxKeUFqVjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1HMFU0aHRpMjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0yZEk0d2NsVTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1zSXZ0S3htajI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1nYkNoTFpsdTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1zS0FJeEVlRzI="
+      ]
+    }
+  }
