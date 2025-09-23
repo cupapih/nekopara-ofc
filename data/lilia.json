@@ -1,0 +1,21 @@
+
+  {
+    "id": "lilia",
+    "title": "Lilia",
+    "image": "img/lilia.jpg",
+    "genre": "local",
+    "date": "2025-09-21T06:45:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPXJ0UVFEM2wxMQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPUdrRW9UMndCMS",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPVRGSDBoR3ZwMQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPXBOQVowRTV0MQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPUlSSlZuRzlzMQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPTcxUzFHMm13MQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPXMyeWpZcFRQMQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPVIxVEVYUXVRMQ==",
+        "aHR0cHM6Ly92aWRleS5jby92P2lkPU9qcmVhblI3MQ=="
+      ]
+    }
+  }
