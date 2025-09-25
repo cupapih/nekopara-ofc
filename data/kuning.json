@@ -1,0 +1,20 @@
+
+  {
+    "id": "kuning",
+    "title": "Kuning",
+    "image": "img/kuning.jpg",
+    "genre": "local",
+    "date": "2025-09-21T07:25:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD02WmxteGlnTTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1uZUhJOWhuNDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1tUXp hazZKSjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1FQVM2SlNtajE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1H MHpTc3pNazE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1LZ0hvdkc1azE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1jNWZlMTIxSDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD11dnhMaFIzbzE="
+      ]
+    }
+  }
