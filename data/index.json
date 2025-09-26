@@ -222,6 +222,7 @@
    { "file": "nachkal.json" },
    { "file": "kuning.json" },
    { "file": "misna.json" },
-   { "file": "longdur.json" }
+   { "file": "longdur.json" },
+   { "file": "belajarmobil.json" }
   ]
 }
