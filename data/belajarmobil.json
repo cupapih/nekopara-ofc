@@ -1,0 +1,17 @@
+
+  {
+    "id": "belajar mobil",
+    "title": "Belajar mobil",
+    "image": "img/belajarmobil.jpg",
+    "genre": "local",
+    "date": "2025-09-21T07:45:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1MMVVqRGtPRzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD01MFBiS0ZKVjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1WYjZ2bUJobjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1XUGNUc256ZzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD11VjZiUExtUTE="
+      ]
+    }
+  }
