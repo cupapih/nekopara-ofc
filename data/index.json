@@ -221,6 +221,7 @@
    { "file": "sameadik.json" },
    { "file": "nachkal.json" },
    { "file": "kuning.json" },
-   { "file": "misna.json" }
+   { "file": "misna.json" },
+   { "file": "longdur.json" }
   ]
 }
