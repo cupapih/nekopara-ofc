@@ -224,6 +224,7 @@
    { "file": "misna.json" },
    { "file": "longdur.json" },
    { "file": "belajarmobil.json" },
-   { "file": "cimolla.json" }
+   { "file": "cimolla.json" },
+   { "file": "hira.json" }
   ]
 }
