@@ -1,0 +1,17 @@
+
+  {
+    "id": "hira",
+    "title": "Hira",
+    "image": "img/hira.jpg",
+    "genre": "local",
+    "date": "2025-09-21T08:30:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1mN0wyTnJpVDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD10M2xtRlBRaTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1UMVdodk5YYzI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0yc3VuTFFSZzI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1jVGRldk8yVDI="
+      ]
+    }
+  }
