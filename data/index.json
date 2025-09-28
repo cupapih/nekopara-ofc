@@ -226,6 +226,7 @@
    { "file": "belajarmobil.json" },
    { "file": "cimolla.json" },
    { "file": "hira.json" },
-   { "file": "default.json" }
+   { "file": "default.json" },
+   { "file": "meruchanv2.json" }
   ]
 }
