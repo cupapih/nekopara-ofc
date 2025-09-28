@@ -225,6 +225,7 @@
    { "file": "longdur.json" },
    { "file": "belajarmobil.json" },
    { "file": "cimolla.json" },
-   { "file": "hira.json" }
+   { "file": "hira.json" },
+   { "file": "default.json" }
   ]
 }
