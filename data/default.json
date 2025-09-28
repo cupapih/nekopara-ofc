@@ -1,0 +1,17 @@
+
+  {
+    "id": " default ",
+    "title": " default ",
+    "image": "img/default.jpg",
+    "genre": "local",
+    "date": "2025-09-21T08:45:00.000Z",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1BSTJaaU5aMTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1aUVZ5dmd4NzI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD00c1huN2pVWjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1RY2p3OFhtVzI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1mRUh0aH BWQjI="
+      ]
+    }
+  }
