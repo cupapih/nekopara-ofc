@@ -227,6 +227,7 @@
    { "file": "cimolla.json" },
    { "file": "hira.json" },
    { "file": "default.json" },
-   { "file": "meruchanv2.json" }
+   { "file": "meruchanv2.json" },
+   { "file": "bellas.json" }
   ]
 }
