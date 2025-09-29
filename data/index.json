@@ -228,6 +228,7 @@
    { "file": "hira.json" },
    { "file": "default.json" },
    { "file": "meruchanv2.json" },
-   { "file": "bellas.json" }
+   { "file": "bellas.json" },
+   { "file": "msslutty.json" }
   ]
 }
