@@ -1,18 +1,18 @@
 
   {
-    "id": "Bellas",
+    "id": "bellas",
     "title": "Bellas",
     "image": "img/bellas.jpg",
     "genre": "local",
-    "date": "2025-09-12T08:55:00.000Z",
+    "date": "2025-09-29T14:07:05.625124+00:00",
     "links": {
       "videy": [
         "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1hZ1k1bmtseTI=",
         "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0wTG01M2pmdjI=",
-        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1oZjFtdk4zNTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1oZjFtdk0zNTI=",
         "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1EeFBuUU1leDI=",
         "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1PYjFMbFB5TjI=",
-        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1nNVIvajRVcTI="
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1nNVIxbjRVcTI="
       ]
     }
   }
