@@ -1,0 +1,16 @@
+
+  {
+    "id": "lipe",
+    "title": "Lipe",
+    "image": "img/lipe.jpg",
+    "genre": "local",
+    "date": "2025-09-29T14:45:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1EQ0gyWTV2VDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1QTzRZcDdocDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1oaWplanYxYTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1jb201S3QzUjI="
+      ]
+    }
+  }
