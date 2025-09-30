@@ -229,6 +229,7 @@
    { "file": "default.json" },
    { "file": "meruchanv2.json" },
    { "file": "bellas.json" },
-   { "file": "msslutty.json" }
+   { "file": "msslutty.json" },
+   { "file": "lipe.json" }
   ]
 }
