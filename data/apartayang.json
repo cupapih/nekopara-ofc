@@ -1,0 +1,16 @@
+
+  {
+    "id": "apart-ayang",
+    "title": "Apart ayang",
+    "image": "img/apartayang.jpg",
+    "genre": "local",
+    "date": "2025-09-30T17:05:33.284193+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1waEVBZ1lNSTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0xdWpqZktnWTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0xUDJsWXJIcTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD05dm16T01hbjE="
+      ]
+    }
+  }
