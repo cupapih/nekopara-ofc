@@ -232,6 +232,7 @@
    { "file": "msslutty.json" },
    { "file": "lipe.json" },
    { "file": "sebelumtidur.json" },
-   { "file": "topenglipe.json" }
+   { "file": "topenglipe.json" },
+   { "file": "jeno.json" }
   ]
 }
