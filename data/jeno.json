@@ -1,0 +1,17 @@
+
+  {
+    "id": "jeno",
+    "title": "Jeno",
+    "image": "img/jeno.jpg",
+    "genre": "local",
+    "date": "2025-09-30T16:51:44.582193+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZElEQnJZb0xidDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZHI4YUFlTVE0Mg==",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD04U0QyRXI2TDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1kSFhZVlkwbTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1pakU5d1R0VTI="
+      ]
+    }
+  }
