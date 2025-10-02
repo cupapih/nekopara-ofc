@@ -235,6 +235,7 @@
    { "file": "topenglipe.json" },
    { "file": "jeno.json" },
    { "file": "apartayang.json" },
-   { "file": "serly.json" }
+   { "file": "serly.json" },
+   { "file": "motor.json" }
   ]
 }
