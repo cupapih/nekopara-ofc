@@ -1,0 +1,19 @@
+
+  {
+    "id": "serly",
+    "title": "Serly",
+    "image": "img/serly.jpg",
+    "genre": "local",
+    "date": "2025-09-30T17:20:11.654321+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1nM0NnWGNDQTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD05czF1S3BqTTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1Ob0g4NWMyQzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1kVm1xalBIczE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD16Q2NKUWRkUjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1VUGttM0FuQTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1rZkZObGJIbDE="
+      ]
+    }
+  }
