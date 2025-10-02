@@ -234,6 +234,7 @@
    { "file": "sebelumtidur.json" },
    { "file": "topenglipe.json" },
    { "file": "jeno.json" },
-   { "file": "apartayang.json" }
+   { "file": "apartayang.json" },
+   { "file": "serly.json" }
   ]
 }
