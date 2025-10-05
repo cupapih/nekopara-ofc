@@ -236,6 +236,7 @@
    { "file": "jeno.json" },
    { "file": "apartayang.json" },
    { "file": "serly.json" },
-   { "file": "motor.json" }
+   { "file": "motor.json" },
+   { "file": "pineseul.json" }
   ]
 }
