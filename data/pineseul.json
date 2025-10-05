@@ -1,0 +1,17 @@
+
+  {
+    "id": "pineseul",
+    "title": "Pineseul",
+    "image": "img/pineseul.jpg",
+    "genre": "barat",
+    "date": "2025-10-05T17:42:36.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD14dEg4RWhVRjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1CU1BPVERZMjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1KZVNFUUpKTTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD14R2RUN2ZUbzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1paFJHZmdvbzE="
+      ]
+    }
+  }
