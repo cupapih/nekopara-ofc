@@ -1,0 +1,17 @@
+
+  {
+    "id": "cici-aca",
+    "title": "Cici Aca",
+    "image": "img/ciciaca.jpg",
+    "genre": "local",
+    "date": "2025-10-05T18:07:32.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1rUG1wV2V3bjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1tUzVoN1ZGWTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1KM3JlYlRkNTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0xM0VhR2JxbDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD13cGdaN3FpbzE="
+      ]
+    }
+  }
