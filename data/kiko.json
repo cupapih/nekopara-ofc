@@ -1,0 +1,16 @@
+
+  {
+    "id": "kiko",
+    "title": "Kiko",
+    "image": "img/kiko.jpg",
+    "genre": "local",
+    "date": "2025-10-05T18:44:59.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1CT1ZUeFltcDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1pZjBLZkZwdzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1WbjFBSGVFbjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1UZjNqT2JJNzE="
+      ]
+    }
+  }
