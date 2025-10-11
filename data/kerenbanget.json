@@ -1,0 +1,17 @@
+
+  {
+    "id": "keren-banget",
+    "title": "Keren banget",
+    "image": "img/kerenbanget.jpg",
+    "genre": "local",
+    "date": "2025-10-05T18:48:40.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1uNlN4VTBWczE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1pZjBLZkZwdzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0yekRlcnMzRTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1ZRlZWeHNhcTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0zbHdGWkNRVDE="
+      ]
+    }
+  }
