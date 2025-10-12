@@ -1,0 +1,16 @@
+
+  {
+    "id": "zula",
+    "title": "Zula",
+    "image": "img/zula.jpg",
+    "genre": "local",
+    "date": "2025-10-05T18:50:32.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1LUlVWZFliYTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1yd0lSN0luTDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1aSHMwWmhtQTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1xZDdNeHBlMTE="
+      ]
+    }
+  }
