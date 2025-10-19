@@ -1,0 +1,17 @@
+
+  {
+    "id": "enaknya",
+    "title": "Enak nya",
+    "image": "img/enaknya.jpg",
+    "genre": "local",
+    "date": "2025-10-19T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1XMTNibXM1Vw==",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1ZaHhYVlZ3Mw==",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1JbWNISHhMdjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0zVE5WQlVhRTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1pWXNrQlpISjE="
+      ]
+    }
+  }
