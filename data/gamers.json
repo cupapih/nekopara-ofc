@@ -1,0 +1,17 @@
+
+  {
+    "id": "gamers",
+    "title": "Gamers",
+    "image": "img/gamers.jpg",
+    "genre": "local",
+    "date": "2025-10-20T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1yRTNjYjNSbTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1mVllRU0JORDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1KalpCVnR5ZzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1sb3g5OTNkczE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD10bWVYOXJKTzE="
+      ]
+    }
+  }
