@@ -1,0 +1,17 @@
+
+  {
+    "id": "audy",
+    "title": "Audy",
+    "image": "img/audy.jpg",
+    "genre": "local",
+    "date": "2025-10-21T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD04aXdUMjlZeTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1hVEpiT1dhdjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD04NU5kNGJsNzI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1sRFFBUGJlNjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD13dXpETG9QbTI="
+      ]
+    }
+  }
