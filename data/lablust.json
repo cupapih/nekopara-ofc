@@ -1,0 +1,16 @@
+
+  {
+    "id": "lablust",
+    "title": "Lablust",
+    "image": "img/lablust.jpg",
+    "genre": "local",
+    "date": "2025-10-24T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1DdVZuNENiTjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD10eTdrNWdxSzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1xM0ZxRm1wMjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1YVTdnMlA5WjE="
+      ]
+    }
+  }
