@@ -1,0 +1,19 @@
+
+  {
+    "id": "miggie",
+    "title": "Miggie",
+    "image": "img/miggie.jpg",
+    "genre": "local",
+    "date": "2025-10-26T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1TMEFnMWdjYjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1xZExJczVRQTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD13ZUN0clE5MDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD03SG5jMnF6ZjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1CRVlZbW1rUjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD10WURXQXBEQzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1rTFB4YjlHZDE="
+      ]
+    }
+  }
