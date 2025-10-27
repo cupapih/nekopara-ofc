@@ -259,6 +259,8 @@
    { "file": "gamers.json" },
    { "file": "audy.json" },
    { "file": "risamisu.json" },
-   { "file": "lablust.json" }
+   { "file": "lablust.json" },
+   { "file": "ranti.json" },
+   { "file": "miggie.json" }
   ]
 }
