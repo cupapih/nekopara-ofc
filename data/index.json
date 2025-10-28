@@ -261,6 +261,7 @@
    { "file": "risamisu.json" },
    { "file": "lablust.json" },
    { "file": "miggie.json" },
-   { "file": "rantismp.json" }
+   { "file": "rantismp.json" },
+   { "file": "kiara.json" }
   ]
 }
