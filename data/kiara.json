@@ -1,0 +1,18 @@
+
+  {
+    "id": "kiara",
+    "title": "Kiara",
+    "image": "img/kiara.jpg",
+    "genre": "local",
+    "date": "2025-10-28T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1hUll4WjBwMDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1NTGNCeTNyYTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1XZVhTVUh sYzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1WV TlrQ1Z6UDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1NTGNCeTNyYTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1hUll4WjBwMDE="
+      ]
+    }
+  }
