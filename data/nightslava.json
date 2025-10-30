@@ -1,0 +1,17 @@
+
+  {
+    "id": "nightlava",
+    "title": "Nightlava",
+    "image": "img/nightlava.jpg",
+    "genre": "local",
+    "date": "2025-10-30T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD15Ujc2d1pHazE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0yb1Y3SVlPcTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1TZG8ycHRCMzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1KNHZoV0NkZDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD14c2JEUEtZZDE="
+      ]
+    }
+  }
