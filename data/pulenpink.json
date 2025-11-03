@@ -1,0 +1,17 @@
+
+  {
+    "id": "pulenpink",
+    "title": "Pulenpink",
+    "image": "img/pulenpink.jpg",
+    "genre": "local",
+    "date": "2025-11-03T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1FamVRM0NqbjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1yc0o3Znc3ODE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1PUmgwV3ozRDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1MMXVCdTdGZDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1VbGc0N0xBODE="
+      ]
+    }
+  }
