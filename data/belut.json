@@ -1,0 +1,17 @@
+
+  {
+    "id": "belut",
+    "title": "Belut",
+    "image": "img/belut.jpg",
+    "genre": "local",
+    "date": "2025-11-04T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1sSjdPRlMwayE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1RWXgz b05sUjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1Dd1ZqZG1ObTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1maGJTc011TDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1jcWtlYUJMUDE="
+      ]
+    }
+  }
