@@ -1,0 +1,17 @@
+
+  {
+    "id": "sebat",
+    "title": "Sebat",
+    "image": "img/sebat.jpg",
+    "genre": "local",
+    "date": "2025-11-06T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0xY1hyeHFTMjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1Hc3llY3UwNTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1pcWdCeUlIeDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD05aGp5aVRNRDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD03RWFMM3VJUjE="
+      ]
+    }
+  }
