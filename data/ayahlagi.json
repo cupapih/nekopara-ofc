@@ -1,0 +1,17 @@
+
+  {
+    "id": "ayahlagi",
+    "title": "Ayah lagi",
+    "image": "img/ayahlagi.jpg",
+    "genre": "barat",
+    "date": "2025-11-07T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1nZ2ljQjBZbTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1GZ1hRamYxNDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD15cGVVTnNSSTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1QaElMNjNOUjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1TVnNyS3dzczE="
+      ]
+    }
+  }
