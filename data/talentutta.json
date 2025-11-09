@@ -1,0 +1,17 @@
+
+  {
+    "id": "talentutta",
+    "title": "Talent utta",
+    "image": "img/talentutta.jpg",
+    "genre": "local",
+    "date": "2025-11-09T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1sRk41ak9GeDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD12QnVQQTFreDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1IQ2h3UFh2dzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1mOEVZUTZBODE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1mM1VpYlZ1cTE="
+      ]
+    }
+  }
