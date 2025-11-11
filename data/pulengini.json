@@ -1,0 +1,17 @@
+
+  {
+    "id": "pulengini",
+    "title": "Pulen gini",
+    "image": "img/pulengini.jpg",
+    "genre": "local",
+    "date": "2025-11-11T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1ZU3pBTDFhdjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1WcXZlSTc3cDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD12VXc4eTFpMjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0zYmdKQjFTQzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1kVG9ScHJQbzE="
+      ]
+    }
+  }
