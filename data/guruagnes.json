@@ -1,0 +1,17 @@
+
+  {
+    "id": "guruagnes",
+    "title": "Guru Agnes",
+    "image": "img/guruagnes.jpg",
+    "genre": "local",
+    "date": "2025-11-13T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1LNThwcFhFazE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1hTkV4RUhLSzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1wdFZ3WW51bzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1vcmhqemR0UjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1vdDdRY2licDE="
+      ]
+    }
+  }
