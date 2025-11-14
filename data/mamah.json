@@ -1,0 +1,17 @@
+
+  {
+    "id": "mamah",
+    "title": "Mamah",
+    "image": "img/mamah.jpg",
+    "genre": "local",
+    "date": "2025-11-14T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1pNUJGczQ3MzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1tUlY0d3BHMjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD03V243ME9OYTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1aWU1UTFwwUjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1tRDFYeXhTODE="
+      ]
+    }
+  }
