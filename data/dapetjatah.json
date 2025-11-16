@@ -1,0 +1,17 @@
+
+  {
+    "id": "dapet_jatah",
+    "title": "Dapet jatah",
+    "image": "img/dapet_jatah.jpg",
+    "genre": "local",
+    "date": "2025-11-16T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1SZWowTGRKODE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1LcFo4VEl2UTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0wdG5OYkw5czE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1yMHk1M3Z6bTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1BaDM1T0dhbzE="
+      ]
+    }
+  }
