@@ -1,0 +1,18 @@
+
+  {
+    "id": "penjagawarung",
+    "title": "Penjagawarung",
+    "image": "img/penjagawarung.jpg",
+    "genre": "local",
+    "date": "2025-11-18T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1yMkI3d0kyTTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1JQ2VNYlRDYjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1zS3dkUWhSdTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD04c2tQUEhPWTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1XblRlQ25nQTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0zWjZ4SFFndzE="
+      ]
+    }
+  }
