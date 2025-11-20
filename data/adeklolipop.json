@@ -1,0 +1,17 @@
+
+  {
+    "id": "adeklolipop",
+    "title": "Adeklolipop",
+    "image": "img/adeklolipop.jpg",
+    "genre": "local",
+    "date": "2025-11-20T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZDFCdnFUT3hTajE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZEJ3eURjWVREMS0=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZFBldXc5cVFpMS0=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZE5OUWhkd1B5MS0=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZHgMZ3RFUzExMS0="
+      ]
+    }
+  }
