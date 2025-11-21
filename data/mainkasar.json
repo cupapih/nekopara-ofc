@@ -1,0 +1,17 @@
+
+  {
+    "id": "mainkasar",
+    "title": "Mainkasar",
+    "image": "img/mainkasar.jpg",
+    "genre": "local",
+    "date": "2025-11-21T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1IeE9icDRZSzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1OZ0dsTWZTUTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1vYXREaVlLcTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1sUVd0SnVMcjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1uRnpjdHV0UjE="
+      ]
+    }
+  }
