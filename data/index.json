@@ -286,6 +286,7 @@
    { "file": "penjagawarung.json" },
    { "file": "adeklolipop.json" },
    { "file": "mainkasar.json" },
-   { "file": "gairah.json" }
+   { "file": "gairah.json" },
+   { "file": "keras.json" }
   ]
 }
