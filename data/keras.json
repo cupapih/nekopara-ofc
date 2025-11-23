@@ -1,0 +1,17 @@
+
+  {
+    "id": "keras",
+    "title": "Keras",
+    "image": "img/keras.jpg",
+    "genre": "local",
+    "date": "2025-11-23T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1uTmQ4cU90NDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1kelZvYktrbjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1GSzJ0NmRYdDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1RVnZFUzFZWTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1uOEp1U3BBVTE="
+      ]
+    }
+  }
