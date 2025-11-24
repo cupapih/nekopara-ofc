@@ -1,0 +1,17 @@
+
+  {
+    "id": "dedek",
+    "title": "Dedek",
+    "image": "img/dedek.jpg",
+    "genre": "barat",
+    "date": "2025-11-24T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1LWlRWV29wNTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1BSmNPb1p6SzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1FSXYxb2hQbjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1FMWFTVkJEUjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1uTHN6UThVcDE="
+      ]
+    }
+  }
