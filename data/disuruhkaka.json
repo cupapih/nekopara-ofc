@@ -1,0 +1,18 @@
+
+  {
+    "id": "disuruh-kaka",
+    "title": "Disuruh Kaka",
+    "image": "img/disuruhkaka.jpg",
+    "genre": "local",
+    "date": "2025-11-25T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1LRWtwd0lKNDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1VYk1VQlVoODE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1ZUmhud0tvWTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD16bXo3cGx0djE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1DalZvSk4yQzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1Va25sVkpLNjE="
+      ]
+    }
+  }
