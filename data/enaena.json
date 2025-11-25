@@ -1,0 +1,17 @@
+
+  {
+    "id": "enaena",
+    "title": "Enaena",
+    "image": "img/enaena.jpg",
+    "genre": "local",
+    "date": "2025-11-26T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1UWkVpMzJnRjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1jZ3llQlJDbTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1mdGRmVzdCUTEx",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1MWWdxeG5rZjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1TSldaRXdVVDE="
+      ]
+    }
+  }
