@@ -1,0 +1,15 @@
+
+  {
+    "id": "new_daisy_bae",
+    "title": "New Daisy Bae",
+    "image": "img/newdaisybae.jpg",
+    "genre": "asia",
+    "date": "2025-11-26T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1tWEZNam50MjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD13NlppYUlPbDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0xWFhYN0xHWTI="
+      ]
+    }
+  }
