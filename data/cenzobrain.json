@@ -1,0 +1,18 @@
+
+  {
+    "id": "cenzobrain",
+    "title": "Cenzobrain",
+    "image": "img/cenzobrain.jpg",
+    "genre": "local",
+    "date": "2025-11-27T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1HV2M1QXF1NTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1TYUtoOUVxMTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1DTGZDMXlrMzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD05RDVhRzJYaTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1iNHBkSVhwMjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1JaDBKcDg2VzE="
+      ]
+    }
+  }
