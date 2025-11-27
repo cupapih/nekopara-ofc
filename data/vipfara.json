@@ -1,0 +1,18 @@
+
+  {
+    "id": "vip_fara",
+    "title": "Vip Fara",
+    "image": "img/vipfara.jpg",
+    "genre": "local",
+    "date": "2025-11-27T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1hUldWbnhIdjI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1HTHptU3A3dTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1IaGo3eUlIeDI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1qSThHTE5WbzI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD02bDRmN2tVSTI=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0wRXYUVHJIVzI="
+      ]
+    }
+  }
