@@ -1,0 +1,17 @@
+
+  {
+    "id": "mantafa",
+    "title": "Mantafa",
+    "image": "img/mantafa.jpg",
+    "genre": "local",
+    "date": "2025-11-28T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1GZGNzTE80NjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0yVmx4RzFqazE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1PUFhLejZzNDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD15MVVqWk1mUjE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD10elN5a3ZNcTE="
+      ]
+    }
+  }
