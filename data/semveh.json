@@ -1,0 +1,18 @@
+
+  {
+    "id": "semveh",
+    "title": "Semveh",
+    "image": "img/semveh.jpg",
+    "genre": "local",
+    "date": "2025-11-30T00:00:00.000000+00:00",
+    "links": {
+      "videy": [
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0zM1IxQmFwNzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1WRkJjNE1LRzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD16TG9JQUhvUzE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1LbXNmaWtBYTE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1KM2phN2lQMDE=",
+        "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1kS3F1WlA1RzE="
+      ]
+    }
+  }
