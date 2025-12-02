@@ -1,0 +1,17 @@
+{
+  "id": "samaboscina",
+  "title": "Samaboscina",
+  "image": "img/samaboscina.jpg",
+  "genre": "local",
+  "date": "2025-12-02T00:00:00.000000+00:00",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1pYXVJZUpMSTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1tMDE5enZLZDE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0yME1tRkRsczE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1HeUdJMm82ZjE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1UeDA0ZDd1ZzE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD14YmF1a09kcDE="
+    ]
+  }
+}
