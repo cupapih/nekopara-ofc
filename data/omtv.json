@@ -1,0 +1,17 @@
+{
+  "id": "om_tv",
+  "title": "Om tv",
+  "image": "img/omtv.jpg",
+  "genre": "local",
+  "date": "2025-12-03T00:00:00.000000+00:00",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly9leGFtcGxlLmNvbS92Lz9pZD05Y3A2MXNjcjE=",
+      "aHR0cHM6Ly9leGFtcGxlLmNvbS92Lz9pZD1LcU5LbWRxZTE=",
+      "aHR0cHM6Ly9leGFtcGxlLmNvbS92Lz9pZD1mWUgyY3RGZDE=",
+      "aHR0cHM6Ly9leGFtcGxlLmNvbS92Lz9pZD1Bdkl0bUM3MjE=",
+      "aHR0cHM6Ly9leGFtcGxlLmNvbS92Lz9pZD1JNDg5akNHdTE=",
+      "aHR0cHM6Ly9leGFtcGxlLmNvbS92Lz9pZD12VGNaTE1HeDE="
+    ]
+  }
+}
