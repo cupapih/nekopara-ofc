@@ -1,0 +1,17 @@
+{
+  "id": "sakit",
+  "title": "Sakit",
+  "image": "img/sakit.jpg",
+  "genre": "local",
+  "date": "2025-12-04T00:00:00.000000+00:00",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jb20vdmlkZW8vOXB3cVpiZnYx",
+      "aHR0cHM6Ly92aWRleS5jb20vdmlkZW8vRVg3d0NBaDAx",
+      "aHR0cHM6Ly92aWRleS5jb20vdmlkZW8vbEpkSVhrWEwx",
+      "aHR0cHM6Ly92aWRleS5jb20vdmlkZW8vV2F6cjZMN0gx",
+      "aHR0cHM6Ly92aWRleS5jb20vdmlkZW8vbUp4TzBNV1Ix",
+      "aHR0cHM6Ly92aWRleS5jb20vdmlkZW8vU3pnZ2Z0Tmsx"
+    ]
+  }
+}
