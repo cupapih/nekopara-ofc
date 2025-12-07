@@ -1,0 +1,16 @@
+{
+  "id": "esteway",
+  "title": "Esteway",
+  "image": "img/esteway.jpg",
+  "genre": "local",
+  "date": "2025-12-07T00:00:00.000000+00:00",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1oN29JNzZuczE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1uREJQbDg5dDE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD05MFVaUWxQczE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1aTFB6MU9uMzE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD16dnhrYXV0eDE="
+    ]
+  }
+}
