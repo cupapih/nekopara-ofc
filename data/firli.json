@@ -1,17 +1,17 @@
 {
-  "id": "firli",
+  "id": "Firli",
   "title": "Firli",
   "image": "img/firli.jpg",
   "genre": "local",
   "date": "2025-12-07T00:00:00.000000+00:00",
   "links": {
     "videy": [
-      "aHR0cHM6Ly9zYWZlLWxpbmsxLmNvbS92P2lkPTE=",
-      "aHR0cHM6Ly9zYWZlLWxpbmsyLmNvbS92P2lkPTI=",
-      "aHR0cHM6Ly9zYWZlLWxpbmszLmNvbS92P2lkPTM=",
-      "aHR0cHM6Ly9zYWZlLWxpbms0LmNvbS92P2lkPTQ=",
-      "aHR0cHM6Ly9zYWZlLWxpbms1LmNvbS92P2lkPTU=",
-      "aHR0cHM6Ly9zYWZlLWxpbms2LmNvbS92P2lkPTY="
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1DUmhFYU12TDE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1tUUlsSUwzaDE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1wUjRCZXRHcjE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1nN09IamZjdDE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1jYld2YnhLdzE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1PcU9PSExIbTE="
     ]
   }
 }
