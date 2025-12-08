@@ -1,0 +1,16 @@
+{
+  "id": "seteway",
+  "title": "Seteway",
+  "image": "img/seteway.jpg",
+  "genre": "local",
+  "date": "2025-12-07T00:00:00.000000+00:00",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1PSmRpTHRNVjE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1RbnRDSHNxUTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1MYmoyS1VEbjE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1RNnZPaGE0bjE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1GSFR4UmpKNTE="
+    ]
+  }
+}
