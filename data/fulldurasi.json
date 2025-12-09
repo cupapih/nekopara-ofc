@@ -1,0 +1,16 @@
+{
+  "id": "fulldurasi",
+  "title": "Fulldurasi",
+  "image": "img/fulldurasi.jpg",
+  "genre": "local",
+  "date": "2025-12-09T00:00:00.000000+00:00",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1sZ0FheWpTbTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1KTzNYaGpPVTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD03NDRYOGMwcjE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD15SGo2MmhvbDE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1CeUozWEZGVDE="
+    ]
+  }
+}
