@@ -1,0 +1,15 @@
+{
+  "id": "amusara",
+  "title": "Amusara",
+  "image": "img/amusara.jpg",
+  "genre": "barat",
+  "date": "2025-12-09T00:00:00.000000+00:00",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD03SzcwODhFdjE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD05bUhTNnc1RjE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0yUmpkVnN2TzI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0yZ09rbFRmdTI="
+    ]
+  }
+}
