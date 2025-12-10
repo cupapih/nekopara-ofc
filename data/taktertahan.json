@@ -1,0 +1,16 @@
+{
+  "id": "taktertahan",
+  "title": "Taktertahan",
+  "image": "img/taktertahan.jpg",
+  "genre": "local",
+  "date": "2025-12-10T00:00:00.000000+00:00",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1TWldWWHRzajI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1iaWdIblVpZTI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1yRnE5WmVieDI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1IU1dZaW9FdTI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1jbzdqOUZMYzI="
+    ]
+  }
+}
