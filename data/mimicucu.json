@@ -1,0 +1,16 @@
+{
+  "id": "mimicucu",
+  "title": "Mimicucu",
+  "image": "img/mimicucu.jpg",
+  "genre": "local",
+  "date": "2025-12-11T00:00:00.000000+00:00",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1YUHBiblVUMQ==",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1JRFoiOHFDMDE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1mWkJLNkpxZTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD05cENNRTBYaTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1YcUNNZjlEYzE="
+    ]
+  }
+}
