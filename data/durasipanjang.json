@@ -1,0 +1,17 @@
+{
+  "id": "durasi_panjang",
+  "title": "Durasi panjang",
+  "image": "img/durasipanjang.jpg",
+  "genre": "local",
+  "date": "2025-12-14T00:00:00.000000+00:00",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1Wa1djU1Z2azE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1kOG5yaURaTjE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1XWHJKdWtpejE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1jWmlHeUhmOTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1NNHBISVdMQzE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1VR0V4TEZKWjE="
+    ]
+  }
+}
