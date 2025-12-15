@@ -1,0 +1,17 @@
+{
+  "id": "tante_wot",
+  "title": "Tante wot",
+  "image": "img/tantewot.jpg",
+  "genre": "local",
+  "date": "2025-12-15T00:00:00.000000+00:00",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD0xbDdUaDFsMzE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD04R1Vtb0JUQjE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1kQVdBQlk4ZTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD11cm1pR2FKbzE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1rcnQ1Q0tkcDE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1FSHRCTGFqWTE="
+    ]
+  }
+}
