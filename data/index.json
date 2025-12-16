@@ -315,6 +315,7 @@
    { "file": "aisan.json" },
    { "file": "vchijab.json" },
    { "file": "tantewot.json" },
-   { "file": "mutia.json" }
+   { "file": "mutia.json" },
+   { "file": "misnahijab.json" }
   ]
 }
