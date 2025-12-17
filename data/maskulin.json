@@ -1,0 +1,16 @@
+{
+  "id": "maskulin",
+  "title": "Maskulin",
+  "image": "img/maskulin.jpg",
+  "genre": "local",
+  "date": "2025-12-17T00:00:00.000000+00:00",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1QWmlXMnU1VTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1nSGFZSmx1bDE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1DbkxEa0ZEQTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1DdDdBUnhmVDE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD03bUQ3ZDNHVzE="
+    ]
+  }
+}
