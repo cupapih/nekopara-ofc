@@ -1,0 +1,17 @@
+{
+  "id": "skypicer",
+  "title": "Skypicer",
+  "image": "img/skypicer.jpg",
+  "genre": "asia",
+  "date": "2025-12-18T00:00:00.000000+00:00",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1DbW90NXd2djE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1NZk5hbUFoZzE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1nQTltY2xXQzE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD16WkY0TXJIbTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1ZbkJhc0FDZjE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1QTlpnWHRqMDE="
+    ]
+  }
+}
