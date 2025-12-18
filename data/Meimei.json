@@ -1,0 +1,16 @@
+{
+  "id": "meimei",
+  "title": "Meimei",
+  "image": "img/meimei.jpg",
+  "genre": "asia",
+  "date": "2025-12-18T00:00:00.000000+00:00",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD03aXN2SHBHMTI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD04c0pOU0VhbTI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD03a0NuN3ZFZjI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD04WGt5UXBQWDI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1HRFVDSVdFTDI="
+    ]
+  }
+}
