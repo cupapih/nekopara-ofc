@@ -319,6 +319,7 @@
    { "file": "misnahijab.json" },
    { "file": "maskulin.json" },
    { "file": "mainan.json" },
-   { "file": "meimei.json" }
+   { "file": "meimei.json" },
+   { "file": "skypicer.json" }
   ]
 }
