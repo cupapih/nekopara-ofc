@@ -1,0 +1,17 @@
+{
+  "id": "perawat",
+  "title": "Perawat",
+  "image": "img/perawat.jpg",
+  "genre": "local",
+  "date": "2025-12-21T00:00:00.000000+00:00",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1lQWJlQkJ5OTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1sNlpEOWU3cTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1uZDltdXNNVDI=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD11UnlTVXA2TjE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD15RE45elBLcDE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1jYzFKVDRZSTE="
+    ]
+  }
+}
