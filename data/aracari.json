@@ -1,0 +1,16 @@
+{
+  "id": "aracari",
+  "title": "Aracari",
+  "image": "img/aracari.jpg",
+  "genre": "local",
+  "date": "2025-12-23T00:00:00.000000+00:00",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1aNlJMalNnMTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD11SkFRdkZVSzE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD11SkFRdkZVSzE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1qQU5xMll6czE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1aNlJMalNnMTE="
+    ]
+  }
+}
