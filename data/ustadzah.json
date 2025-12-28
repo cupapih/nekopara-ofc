@@ -1,0 +1,17 @@
+{
+  "id": "ustadzah",
+  "title": "Ustadzah",
+  "image": "img/ustadzah.jpg",
+  "genre": "local",
+  "date": "2025-12-28T00:00:00.000Z",
+  "links": {
+    "videy": [
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1ySVRpYVBaeDE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD13d3pzZzd4YTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD12bWhsdjhnOTE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1uQkJOd0FpaDE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1PMUR1d2ZWUDE=",
+      "aHR0cHM6Ly92aWRleS5jby92Lz9pZD1OWEhORU1rMQ=="
+    ]
+  }
+}
